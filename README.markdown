@@ -1,7 +1,8 @@
-# Maki 
+# Maki jp
 
-Maki is a point of interest icon set made especially for use with MapBox maps. For more information on how to use Maki with MapBox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
-
+Makiは、ポイントデータ(POI)表記を中心に、特にMapBoxマップで使用するために作られた地図アイコンデザインセットです。
+MapBoxでMakiを使用する詳細方法については、こちらをご参考ください。 http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
+Makijp は上記の Maki をフォークして、日本で用いられている地図記号表記を追加、反映させることを目標とした地図アイコンデザインセットです。
 
 ## Notes on Contributing
 
