@@ -6,6 +6,10 @@ http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
 
 Makijp は上記の Maki をフォークして、日本で用いられている地図記号表記を追加、反映させることを目標とした地図アイコンデザインセットです。
 
+Makijpアイコンデザイン公開グループ
+https://www.facebook.com/groups/619889871355231
+
+
 ## Notes on Contributing
 
 The working file that includes all the icons is here: https://github.com/mapbox/maki/blob/gh-pages/src/maki-icons.svg.
